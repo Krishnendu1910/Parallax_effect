@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black" alt="SVG" />
 </p>
 
+<p align="center">
+  <img src="docs/images/parallax-demo.gif" alt="Parallax Effect animated preview" width="100%">
+</p>
+
 ---
 
 ## ✨ About the Project
